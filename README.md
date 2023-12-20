@@ -2,7 +2,7 @@
 
 **Sponsor Me Now**는 후원자와 후원을 받는 사람을 연결하여 서로 상호작용하며 커뮤니티를 형성하는 플랫폼으로, 유저들 간의 지지와 나눔이 어우러져 더 나은 세상을 만들어가는 공간입니다. 함께 참여하여 소중한 연결과 나눔의 가치를 느껴보세요.
 
-🔗 서비스 링크 : https://showmethemoney.p-e.kr
+
 
 <img src="https://github.com/a-honey/sponsor-me-now/assets/75254185/8b860bf9-191b-462f-990e-cdfa5b9beb03" width={200} />
 
